@@ -54,7 +54,7 @@ export const Time = () => {
 _JavaScript_ - teamwork on a project [Trello](https://github.com/Siarhei-Douhi/Trello "project Trello")  
 _React + TypeScript_ - a project [how-strong-are-you](https://github.com/Siarhei-Douhi/how-strong-are-you "my React project"). It is my final work in **TeachMeSkills**
 
-## Education :book:
+## Education
 
 **TeachMeSkills** - "Front End Developer" (February 28, 2022 - November 16, 2022)
 
